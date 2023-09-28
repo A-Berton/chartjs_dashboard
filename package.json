@@ -1,0 +1,31 @@
+{
+  "name": "chartjs-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@headlessui/react": "^1.7.16",
+    "@heroicons/react": "^2.0.18",
+    "chart.js": "^4.3.3",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.5.0",
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "faker": "^5.5.3",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3"
+  }
+}
