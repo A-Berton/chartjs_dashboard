@@ -1,5 +1,5 @@
 import Image from "next/image";
-import photo_cv from "../assets/photo-cv.png";
+import photo_cv from "../assets/photo-cv.jpg";
 import colors from 'tailwindcss/colors';
 
 const Profile = () =>{
